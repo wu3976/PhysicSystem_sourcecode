@@ -1,0 +1,3 @@
+Designed and implemented a physics system in the game engine PrimeEngine, which included gravity and collisions.
+Established oriented collision boxes for each static and dynamic mesh, and employed ray-casting to detect collision objects and angles. The game objects' velocity was updated based on the inelastic collision rules.
+Configured NPC behavior to slide along static objects upon collision and fall from cliff edges when venturing outside.
